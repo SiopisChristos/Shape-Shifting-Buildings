@@ -1,4 +1,4 @@
-# Shape-Shifting-Buildings
+# Shape Shifting Buildings
 Implementation of a Data Warehouse for a variety of buildings that can change their shapes based on external factors.
 
 # Related Article
