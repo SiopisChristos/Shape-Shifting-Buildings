@@ -39,6 +39,6 @@ The logical representation of the DW consists of a central table (the fact table
 - Name: Nt_Building_Shape
 - Rows: 32
 
-# Related Article
+# Related Articles
 - [A house for ALL seasons](https://www.dailymail.co.uk/sciencetech/article-2840627/A-house-seasons-Shape-shifting-home-transforms-year-response-changing-temperatures.html).
 - [Starnest Schema](https://www.researchgate.net/publication/262239999_Integrating_Star_and_Snowflake_Schemas_in_Data_Warehouses).
